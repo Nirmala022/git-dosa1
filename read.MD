@@ -6,3 +6,5 @@
 
 # panner dosa
 dosa batter
+oil
+paneer
