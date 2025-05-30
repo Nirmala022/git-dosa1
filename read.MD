@@ -12,5 +12,6 @@ paneer
 kaju paste
 
 =======
+# masala dosa
 dosa batter
->>>>>>> parent of fc7c5b6 (panner dosa oil added)
+masala curry
