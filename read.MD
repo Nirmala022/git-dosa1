@@ -5,10 +5,12 @@
 *light oil
 
 # panner dosa
+<<<<<<< HEAD
 dosa batter
 oil
 paneer
 kaju paste
-mysore masala
-onion and tamota
-capsicum
+
+=======
+dosa batter
+>>>>>>> parent of fc7c5b6 (panner dosa oil added)
