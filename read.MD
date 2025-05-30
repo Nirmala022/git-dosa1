@@ -11,3 +11,4 @@ paneer
 kaju paste
 mysore masala
 onion and tamota
+capsicum
