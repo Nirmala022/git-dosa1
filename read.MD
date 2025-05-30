@@ -8,3 +8,5 @@
 dosa batter
 oil
 paneer
+kaju paste
+mysore masala
